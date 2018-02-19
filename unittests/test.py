@@ -15,4 +15,4 @@ class TestCaseDemo1(unittest.TestCase):
         print("I will run after every testdemo")
 
 if __name__ == '__main__':
-    unittest.main(verbosity=2)
+    unittest.main()
